@@ -1,0 +1,1 @@
+This is an implementation of a simple naive bayes classifer. Then we will attempt to generate text using the learnt distributions.
