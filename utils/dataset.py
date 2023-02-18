@@ -26,4 +26,4 @@ def build_vocab(data_itr,tokenizer):
     v.set_default_index(v["<unk>"])
     
     
-    return v,ordered_dict
+    return v
